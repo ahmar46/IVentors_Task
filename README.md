@@ -1,1 +1,1 @@
-### This is a SVG animation made by using adobe aftereffects and it
+### This is a SVG animation made by using adobe aftereffects and it is 
