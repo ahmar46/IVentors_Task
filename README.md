@@ -3,4 +3,4 @@
 
 ### Technologies Used: HTML, CSS and Adobe AfetrEffects.
 
-### Find me on InstaGr
+### Find me on Instag
