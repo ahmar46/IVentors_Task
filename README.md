@@ -3,6 +3,6 @@
 
 ### Technologies Used: HTML, CSS and Adobe AfterEffects.
 
-### Find me on Instagram: [instagram]@electrifying_codes.
+### Find me on Instagram: [instagram]@electrifying_codes].
 
 [instagram]: https://www.instagram.com/electrifying_codes
