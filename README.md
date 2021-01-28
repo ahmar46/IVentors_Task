@@ -5,4 +5,4 @@
 
 ### Find me on Instagram: @electrifying_codes.
 
-[in] : https://www.instagram.com/electrifying_codes
+[inst] : https://www.instagram.com/electrifying_codes
